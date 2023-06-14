@@ -1,0 +1,15 @@
+/Users/alyasabdulrazzaq/source/betatest1/bin/Debug/net7.0/betatest1
+/Users/alyasabdulrazzaq/source/betatest1/bin/Debug/net7.0/betatest1.deps.json
+/Users/alyasabdulrazzaq/source/betatest1/bin/Debug/net7.0/betatest1.runtimeconfig.json
+/Users/alyasabdulrazzaq/source/betatest1/bin/Debug/net7.0/betatest1.dll
+/Users/alyasabdulrazzaq/source/betatest1/bin/Debug/net7.0/betatest1.pdb
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/betatest1.csproj.AssemblyReference.cache
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/betatest1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/betatest1.AssemblyInfoInputs.cache
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/betatest1.AssemblyInfo.cs
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/betatest1.csproj.CoreCompileInputs.cache
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/betatest1.dll
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/refint/betatest1.dll
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/betatest1.pdb
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/betatest1.genruntimeconfig.cache
+/Users/alyasabdulrazzaq/source/betatest1/obj/Debug/net7.0/ref/betatest1.dll
